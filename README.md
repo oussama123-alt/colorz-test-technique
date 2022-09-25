@@ -1,5 +1,6 @@
 # colorz-test-technique
-test technique de colorz pour l'exportation de deux fichiers cvs à partir d'un fichier json fourni,le fichier json a été intergre dans le dossier de projet
+test technique de colorz pour l'exportation de deux fichiers cvs à partir d'un fichier json fourni,
+le fichier json a été integré dans le dossier de projet,
 cette test a été réalise avec le framework symfony,
 
 # requirement:
